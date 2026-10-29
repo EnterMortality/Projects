@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/fn9X+Xmqw=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desktop\\.nuget\\packages\\figgle\\0.6.6\\figgle.0.6.6.nupkg.sha512",
+    "C:\\Users\\Desktop\\.nuget\\packages\\figgle.fonts\\0.6.6\\figgle.fonts.0.6.6.nupkg.sha512"
+  ],
+  "logs": []
+}
