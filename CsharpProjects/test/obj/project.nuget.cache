@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rgr+p9q0lMI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desktop\\.nuget\\packages\\packetdotnet\\1.4.8\\packetdotnet.1.4.8.nupkg.sha512",
+    "C:\\Users\\Desktop\\.nuget\\packages\\sharppcap\\6.3.1\\sharppcap.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
