@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj": {}
+    "C:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj": {
+    "C:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj",
+        "projectUniqueName": "C:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj",
         "projectName": "Gloomber",
-        "projectPath": "c:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj",
+        "projectPath": "C:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\Gloomber.csproj",
         "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\obj\\",
+        "outputPath": "C:\\Users\\Desktop\\Desktop\\Projects\\CsharpProjects\\c_nmc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config"

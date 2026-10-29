@@ -1,0 +1,15 @@
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\bin\Debug\net10.0\CmdHelperV1.exe
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\bin\Debug\net10.0\CmdHelperV1.deps.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\bin\Debug\net10.0\CmdHelperV1.runtimeconfig.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\bin\Debug\net10.0\CmdHelperV1.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\bin\Debug\net10.0\CmdHelperV1.pdb
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\CmdHelperV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\CmdHelperV1.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\CmdHelperV1.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\CmdHelperV1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\CmdHelperV1.sourcelink.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\CmdHelperV1.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\refint\CmdHelperV1.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\CmdHelperV1.pdb
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\CmdHelperV1.genruntimeconfig.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\CmdHelperV1\obj\Debug\net10.0\ref\CmdHelperV1.dll

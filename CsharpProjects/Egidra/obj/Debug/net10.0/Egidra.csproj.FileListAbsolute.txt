@@ -1,0 +1,15 @@
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\bin\Debug\net10.0\Egidra.exe
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\bin\Debug\net10.0\Egidra.deps.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\bin\Debug\net10.0\Egidra.runtimeconfig.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\bin\Debug\net10.0\Egidra.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\bin\Debug\net10.0\Egidra.pdb
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\Egidra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\Egidra.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\Egidra.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\Egidra.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\Egidra.sourcelink.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\Egidra.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\refint\Egidra.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\Egidra.pdb
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\Egidra.genruntimeconfig.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\Egidra\obj\Debug\net10.0\ref\Egidra.dll

@@ -1,0 +1,15 @@
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\bin\Debug\net10.0\UsernameGenerator.exe
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\bin\Debug\net10.0\UsernameGenerator.deps.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\bin\Debug\net10.0\UsernameGenerator.runtimeconfig.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\bin\Debug\net10.0\UsernameGenerator.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\bin\Debug\net10.0\UsernameGenerator.pdb
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\UsernameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\UsernameGenerator.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\UsernameGenerator.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\UsernameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\UsernameGenerator.sourcelink.json
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\UsernameGenerator.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\refint\UsernameGenerator.dll
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\UsernameGenerator.pdb
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\UsernameGenerator.genruntimeconfig.cache
+C:\Users\Desktop\Desktop\Projects\CsharpProjects\UsernameGenerator\obj\Debug\net10.0\ref\UsernameGenerator.dll
